@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HugoChallenge</string>
+
+    <string name="dashboard_title">Hugo App</string>
+    <string name="details_title">Details</string>
+
+    <string name="favorites">Favorites</string>
+    <string name="sample_beer">Sample Beer</string>
+    <string name="sample_ph">ph: 4.4</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="search_a_beer">Search a beer:</string>
+
+    <!-- Accessibility -->
+    <string name="beer_image_description">Image showing the Beer</string>
+    <string name="favorite_image_description">Image showing if the item is marked as Favorite</string>
+</resources>
